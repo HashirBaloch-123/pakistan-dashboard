@@ -9,11 +9,8 @@ An interactive web-based data visualization system built with **D3.js v7** analy
 
 ## 🚀 Live Demo
 
-**GitHub Pages:** `https://<your-username>.github.io/pakistan-dashboard/`
+**GitHub Pages:** `https://hashirbaloch-123.github.io/pakistan-dashboard/`
 
-> Replace `<your-username>` with your actual GitHub username after deploying.
-
----
 
 ## 📁 Project Structure
 
@@ -160,9 +157,9 @@ Toggle to **USD $** for international comparison. All KPIs, axis labels, tooltip
 
 | Name | Role |
 |------|------|
-| Sarwat | Visualization design, D3.js implementation, interactivity, code architecture |
-| [Partner Name] | Data collection, EDA, preprocessing, design report writing |
+| Sarwat Irum | Visualization design, D3.js implementation, interactivity, code architecture |
+| Muhammad Hashir | Data collection, EDA, preprocessing, design report writing |
 
-**Course:** DSC327 — Data Visualization Techniques | **Instructor:** [Instructor Name]
+**Course:** DSC327 — Data Visualization Techniques | **Instructor:** Dr. Shaneela Naz 
 **Program:** BDS 7 | **University:** COMSATS University Islamabad
 **Submission:** 19 June 2026
